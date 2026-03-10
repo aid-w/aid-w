@@ -8,6 +8,7 @@ Aspiring Cybersecurity Professional actively building toward a career in cyberse
 
 ## 📋 Certifications In Progress
 - [ ] Google Cybersecurity Certificate
+- [ ] [HackTheBox Academy](link) — coming soon
 
 ## 📂 My Repositories
 - [Google Cybersecurity Notes](https://github.com/aid-w/google-cybersecurity-notes) — coming soon
