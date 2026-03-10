@@ -1,6 +1,6 @@
 # Hi, I'm [Aiden Weaver] 👋
 
-Aspiring Cybersecurity actively building toward a career in cybersecurity.
+Aspiring Cybersecurity Professional actively building toward a career in cybersecurity.
 
 ## 🎯 Currently Working On
 - Google Cybersecurity Certificate (Coursera)
