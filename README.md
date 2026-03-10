@@ -10,6 +10,6 @@ Aspiring Cybersecurity actively building toward a career in cybersecurity.
 - [ ] Google Cybersecurity Certificate
 
 ## 📂 My Repositories
-- [[Google Cybersecurity Notes](https://github.com/aid-w/google-cybersecurity-notes)]
+- [Google Cybersecurity Notes](link) — coming soon
 
 ## 🛠️ Tools & Skills I'm Building
