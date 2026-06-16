@@ -1,15 +1,14 @@
-# Hi, I'm [Aiden Weaver] 👋
+# Hi, I'm Aiden Weaver 
 
 Aspiring Cybersecurity Professional actively building toward a career in cybersecurity.
 
-## 🎯 Currently Working On
+##  Currently Working On
 - Google Cybersecurity Certificate (Coursera)
 - HackTheBox Academy — Intro to Networking
 
-## 📋 Certifications In Progress
+##  Certifications In Progress
 - [ ] Google Cybersecurity Certificate
 
-## 📂 My Repositories
+##  My Repositories
 - [Google Cybersecurity Notes](https://github.com/aid-w/google-cybersecurity-notes)
 - [HackTheBox Academy](https://github.com/aid-w/hackthebox-academy)
-## 🛠️ Tools & Skills I'm Building
